@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "AI_POLICY.md"
+hash = "26e36ab96e9f0d7d38a3b1a4996b734d7eb55ce2ebfa3c704829cd67a740080a"
+
+[[files]]
 file = "LICENSE"
 hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
@@ -788,6 +792,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "44505ec6c8d7ac5948b3f192cff3db191b07c4d39d501ce3af916006cda3c5a6"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
@@ -810,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "7277f55075a3afc512bdf96216e4264a74b7eae69b45c13130c73b636956fd6e"
 metafile = true
 
 [[files]]
@@ -1078,8 +1092,18 @@ hash = "51bf17db22eee5fb80da0b2efe87b846f1165bafc67a789782c5fd976c406ffa"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "62f429f37e8e20637dd5ca5479045fd6831d5b65bcfe3c49cc5a4c6eaf9eb540"
 metafile = true
 
 [[files]]
