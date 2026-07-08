@@ -15,4 +15,10 @@ GTCEuStartupEvents.registry("gtceu:material", (event) => {
     .iconSet(GTMaterialIconSet.METALLIC)
     .flags(GTMaterialFlags.GENERATE_PLATE);
     */
+  event
+    .create("mystic")
+    .dust()
+    .color(0x75d8e1)
+    .iconSet(GTMaterialIconSet.DULL)
+    .flags(GTMaterialFlags.GENERATE_PLATE);
 });

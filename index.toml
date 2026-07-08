@@ -490,7 +490,7 @@ hash = "9c4f6d7c53389dc65afb94ee21eaa3d882c552cf4658c31a3a7d48ea92b19c75"
 
 [[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"
-hash = "6f50f194fdacf3297b259459fbc81e5e4defc9cf7a14666a8fefc22cb176b4dc"
+hash = "9d13e6ad11c9f67a9dd480256bb55c2c0b791b9165dfed7b0e917e432f248999"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/greg_icon.png"
@@ -621,6 +621,14 @@ file = "kubejs/server_scripts/appliedenergistics2/terminals.js"
 hash = "65044811e34e7b2d2d2728ed0bd025f4994369ae8b97b6711209a0469cafa96c"
 
 [[files]]
+file = "kubejs/server_scripts/arsnouveau/machine.js"
+hash = "00ba85befd12face2d8065bb0093c2a494e7a60d30e7bf7c270df6f52055fe2e"
+
+[[files]]
+file = "kubejs/server_scripts/botania/components.js"
+hash = "56892e9720a8ce5aa8d78efe4b3c10dbd88bfa1ab21bdc8a41fc3cfdbf22c773"
+
+[[files]]
 file = "kubejs/server_scripts/building/architects_palette.js"
 hash = "a9dee8e45e19377df2b859b09fa3f8961d5c3bff8153148e05efac9adfb6cd07"
 
@@ -746,7 +754,7 @@ hash = "4243acf6c16297a0dc6f87230d2e061571766f93bcfa04e0949535e36edc7b86"
 
 [[files]]
 file = "kubejs/startup_scripts/material_testing/material.js"
-hash = "1251ce19a3fb1d2b029c1cb2b1ed3020e07e514eaad8786b5a3c96e4a1e0713a"
+hash = "a667a1b9f7b970193d622693800971f315d2c25d6a94d34a78056c6d12447946"
 
 [[files]]
 file = "kubejs/startup_scripts/recipes/construction_core.js"
@@ -1114,6 +1122,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
 metafile = true
 
 [[files]]
