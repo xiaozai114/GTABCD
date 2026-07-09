@@ -905,6 +905,11 @@ hash = "4a362c02618c1661f08f0aedad55ae43cfbb9fb00862a347c27007031899a1a1"
 metafile = true
 
 [[files]]
+file = "mods/ex-deorum.pw.toml"
+hash = "d66850742e7910b87018f26eb606f31ae9198dc12b3ff5bf315e0b979fd6e59a"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "5dd87764b5c75976d171c15bb044c133164e6221573391a1118009e0f8bf649d"
 metafile = true
