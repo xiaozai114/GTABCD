@@ -31,13 +31,13 @@ ServerEvents.recipes(event => {
         'exdeorum:bamboo_compressed_sieve'
     ];
     const arsSieves = [
-    'exdeorum:archwood_sieve',
-    'exdeorum:blue_archwood_compressed_sieve',
-    'exdeorum:red_archwood_compressed_sieve_2',
-    'exdeorum:purple_archwood_compressed_sieve_3',
-    'exdeorum:green_archwood_compressed_sieve_4'];
+        'exdeorum:archwood_sieve',
+        'exdeorum:blue_archwood_compressed_sieve',
+        'exdeorum:red_archwood_compressed_sieve_2',
+        'exdeorum:purple_archwood_compressed_sieve_3',
+        'exdeorum:green_archwood_compressed_sieve_4'];
     // 3. 合并两个数组，一次性处理所有筛子
-    const allSieves = sieves.concat(compressedSievers,arsSieves);
+    const allSieves = sieves.concat(compressedSievers, arsSieves);
 
     // 4. 遍历删除每个物品的合成配方
     allSieves.forEach(itemId => {
@@ -59,14 +59,14 @@ ServerEvents.recipes(event => {
         { id: 'ars_nouveau', plank: 'ars_nouveau:archwood_planks', sieve: 'exdeorum:archwood_sieve', fence: 'ars_nouveau:archwood_fence', gate: 'ars_nouveau:archwood_fence_gate' }
     ];
 
-    woodTypes.forEach(({ sieve, fence, gate }) => {
-        event.shaped(sieve, [
+    woodTypes.forEach(wood => {
+        event.shaped(wood.sieve, [
             'GGG',   // 第一行：3个栅栏门
             'FFF',   // 第二行：3个栅栏
             'FFF'    // 第三行：3个栅栏
         ], {
-            G: gate,   // 对应门的物品
-            F: fence   // 对应栅栏的物品
+            G: wood.gate,   // 对应门的物品
+            F: wood.fence   // 对应栅栏的物品
         });
     });
 });
