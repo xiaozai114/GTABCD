@@ -230,7 +230,7 @@ hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "5533b9de9259ba09d1d0a201897fbd272f03790bf05c082f0616069450cd2d6a"
+hash = "9f15061538447322339f6d0c8494be9bef0039e35421fc33a909d0f3ca465fca"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -647,6 +647,10 @@ hash = "8b7f2f0a99a9e45d6d4997a99e984f0a8502916fd26b11ec3fca87df398d4d19"
 [[files]]
 file = "kubejs/server_scripts/ender_storage.js"
 hash = "0684e9dcf9c752c3c7218ec71fdd37f64897aa1236de18d02b8920b908781d5f"
+
+[[files]]
+file = "kubejs/server_scripts/exnihilo/machine.js"
+hash = "38e92fa0b7d43704cf52286d8404bb7cd9c725059c1a917348340999acdaf33d"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/components.js"
