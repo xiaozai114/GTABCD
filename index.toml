@@ -995,6 +995,11 @@ hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
+file = "mods/gregtech-nexus.pw.toml"
+hash = "f21f8ad5dc4594a5d8be112d9b41bcbe5f7c428daa3ac233e8ca006ad128d219"
+metafile = true
+
+[[files]]
 file = "mods/gregtech-storage-drawers.pw.toml"
 hash = "385a5b3d937405c0fbf9bac790ea268138bbede0ce1da07a0ce562edca16c5a6"
 metafile = true
@@ -1017,6 +1022,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "8144c6f823114a3ec18c520a7fba1bdeaecec846b89e08e276b310933352c102"
 metafile = true
 
 [[files]]
@@ -1105,6 +1115,11 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
+file = "mods/official-divinerpg.pw.toml"
+hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "51bf17db22eee5fb80da0b2efe87b846f1165bafc67a789782c5fd976c406ffa"
 metafile = true
@@ -1172,6 +1187,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "e8be245ed767270ec9abbdba7fe19b1c46fbf877fde14f3704d71b5baea11213"
 metafile = true
 
 [[files]]
