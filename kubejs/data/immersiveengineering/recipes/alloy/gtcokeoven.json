@@ -1,0 +1,25 @@
+{
+    "type":"immersiveengineering:alloy",
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:sand"
+            }
+        }
+    ],
+    "input0": {
+        "tag": "forge:sand"
+    },
+    "input1": {
+        "item": "minecraft:clay_ball"
+    },
+    "result": {
+        "base_ingredient": {
+            "item": "gtceu:coke_oven_brick"
+        },
+        "count": 2
+    },
+    "time": 200
+}

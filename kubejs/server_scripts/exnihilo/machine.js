@@ -33,9 +33,9 @@ ServerEvents.recipes(event => {
     const arsSieves = [
         'exdeorum:archwood_sieve',
         'exdeorum:blue_archwood_compressed_sieve',
-        'exdeorum:red_archwood_compressed_sieve_2',
-        'exdeorum:purple_archwood_compressed_sieve_3',
-        'exdeorum:green_archwood_compressed_sieve_4'];
+        'exdeorum:red_archwood_compressed_sieve',
+        'exdeorum:purple_archwood_compressed_sieve',
+        'exdeorum:green_archwood_compressed_sieve'];
     // 3. 合并两个数组，一次性处理所有筛子
     const allSieves = sieves.concat(compressedSievers, arsSieves);
 
